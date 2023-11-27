@@ -9,6 +9,6 @@ include_directories(${SDL2_INCLUDE_DIR})
 link_directories(${SDL2_LIB_DIR})
 
 
-add_executable(Lab_4_Shaders main.cpp)
+add_executable(Lab_4_Shaders main.cpp GraphicsHeaders.h Shaders.h FastNoiseLite.h FrameBuffer.h)
 
 target_link_libraries(${PROJECT_NAME} SDL2main SDL2)
