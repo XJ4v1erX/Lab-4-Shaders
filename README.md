@@ -42,5 +42,10 @@ Para ejecutar el proyecto:
 | Sistema de anillos en planetas gaseosos          | 20              | 0                  |
 | Implementación de una luna en un planeta rocoso  | 20              | 20                 |
 
+| Total de Puntos Completados |
+|-----------------------------|
+| 120                         | |
+
+
 ## Autor
 - [Javier Ramírez]
