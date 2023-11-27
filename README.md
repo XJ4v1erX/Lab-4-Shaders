@@ -36,11 +36,11 @@ Para ejecutar el proyecto:
 | Criterio                                         | Puntos Posibles | Puntos Completados |
 |--------------------------------------------------|-----------------|--------------------|
 | Creatividad en el diseño                         | 30              | ?                  |
-| Complejidad de los shaders                       | 40              | ?                  |
-| Capas del shader que afectan el color            | 10 por capa     | ?                  |
-| Planetas adicionales                             | 10 por planeta  | ?                  |
-| Sistema de anillos en planetas gaseosos          | 20              | ?                  |
-| Implementación de una luna en un planeta rocoso  | 20              | ?                  |
+| Complejidad de los shaders                       | 40              | 40                 |
+| Capas del shader que afectan el color            | 10 por capa     | 30                 |
+| Planetas adicionales                             | 10 por planeta  | 30                 |
+| Sistema de anillos en planetas gaseosos          | 20              | 0                  |
+| Implementación de una luna en un planeta rocoso  | 20              | 20                 |
 
 ## Autor
 - [Javier Ramírez]
